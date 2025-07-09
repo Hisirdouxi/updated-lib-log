@@ -1,0 +1,1 @@
+<a href="#" class="bg-white/7 text-xs hover:bg-white/10 rounded-xl">{{ $slot }}</a>
