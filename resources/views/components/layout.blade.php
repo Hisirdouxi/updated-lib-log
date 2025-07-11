@@ -18,7 +18,10 @@
                     <input type="text" placeholder="Search your books">
                 </button>
             </div>
-            <div>Login/Signup</div>
+            <div class="space-x-6">
+                <a href="/login">Login</a>
+                <a href="/register">Signup</a>
+            </div>
         </nav>
         <main class="mt-10 max-w-[990px] mx-auto">
             {{ $slot }}
